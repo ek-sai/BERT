@@ -253,7 +253,7 @@ We welcome contributions! Here's how you can help:
 ## 🙋‍♀️ Support & Questions
 
 - 💬 **Issues**: Open a GitHub issue for bugs or questions
-- 📧 **Contact**: Reach out for collaboration opportunities
+- 📧 **Contact**: Reach out for collaboration opportunities at eksai0726@gmail.com
 - ⭐ **Star**: If this project helped you, consider giving it a star!
 
 ---
