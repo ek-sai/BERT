@@ -81,22 +81,6 @@ print(f"Next word predictions: {predictions}")
 
 ---
 
-## 📁 Project Structure
-
-```
-next_bert/
-├── 📄 next_bert.py              # Main training script
-├── 📊 training_curves.png       # Generated loss visualization
-├── 📋 training_history.json     # Detailed training metrics
-├── 🤖 final_model/             # Saved fine-tuned model
-│   ├── pytorch_model.bin
-│   ├── config.json
-│   └── training_args.bin
-└── 📝 dataset.txt            # Your training data
-```
-
----
-
 ## 🔧 Configuration Options
 
 ### Training Parameters
